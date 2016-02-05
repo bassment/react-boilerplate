@@ -1,13 +1,8 @@
-# webpack-hot-react
-_Template project for creating webpack-hot-react applications(login and signUp logic included)_ using:
+# react-boilerplate
+_Template project for creating simple react applications_ using:
 
 **Node, Express, React, ES6, ES7, React-Router** 
 
-**Webpack, HotModuleReplacement, Firebase, React-Login, Google oAuth**
-
-**Skeleton, Css Modules, Deploy (webpack production version)** 
+**Webpack, HotModuleReplacement, Css Modules, Deploy (webpack production version)**
 
 Full-stack application.
-
-
-[Demo](http://pixelant.space/) project using this template: http://pixelant.space/
